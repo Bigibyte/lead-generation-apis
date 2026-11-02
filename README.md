@@ -1,4 +1,4 @@
-# Lead Generation APIs: Find B2B Leads, Emails and Local Business Contacts
+# Lead Generation APIs: Find People Who Want to Buy From You
 
 <p align="center">
  <img src="https://images.bigibyte.com/projects/bigibyte-github-lead-generation-apis-cover.png" alt="Lead Generation APIs: lead generation APIs" width="100%">
@@ -13,11 +13,12 @@
 <p align="center">
  <a href="#top-10-most-popular">Top 10</a> ·
  <a href="#table-of-contents">Categories</a> ·
- <a href="#how-to-use">How to use</a> ·
- <a href="#faq">FAQ</a>
+ <a href="#more-lists">More lists</a>
 </p>
 
-**A big, tidy list of lead generation APIs** for B2B leads, local businesses, emails, phones and CRM enrichment. **13,606 APIs**, sorted by real users so the useful ones show up first.
+Looking for new customers? Tell one of these APIs what kind of business you want, and it builds a list with names, emails and phone numbers. **13,606 ready-to-use APIs**, sorted by real users so the best ones come first.
+
+These lead generation APIs help you build B2B prospect lists from Google Maps, LinkedIn, directories and marketplaces. Use them as a lead scraper, email finder, local business scraper and CRM enrichment tool for sales outreach, cold email and agency prospecting. Each API runs in the cloud and exports JSON, CSV or Excel, ready for your outbound tools.
 
 ---
 
@@ -1058,45 +1059,6 @@ If this list helped you, a star helps other people find it too.
 
 
 [View all 25 in this section →](lists/ebay-walmart.md)
-
----
-
-## How to use
-
-1. Open any API link in this repo.
-2. Read the input fields (usually a keyword, map search, company domain or profile URL).
-3. Run a small test so you see the output shape.
-4. Export the dataset as JSON, CSV or Excel, or call the same API from your code.
-
-
-```bash
-# Example: send JSON to any HTTP API you choose
-curl -X POST "https://httpbin.org/post" \
- -H "Content-Type: application/json" \
- -d '{"query":"example","limit":10}'
-```
-
----
-
-## FAQ
-
-**What is the best lead generation API?** 
-Start with the [Top 10](#top-10-most-popular). Tools with more users and a clear rating are usually safer bets. Then check Email/Phone and Google/Maps.
-
-**How do I find B2B emails?** 
-Open the [Email / Phone](#email-phone) section. Results depend on what is public on the web. Always follow local laws.
-
-**Can I scrape Google Maps for local leads?** 
-Yes. See [Google / Maps](#google-maps). Many APIs return name, address, phone and website.
-
-**How is this list organized?** 
-By theme. Full tables live in the [`lists/`](lists/) folder. The README shows a preview of each category.
-
-**How often is it updated?** 
-Last build: 2026-11-02. Rebuild when you need a newer snapshot.
-
-**Why do some ratings say n/a?** 
-That API has no public rating yet.
 
 ---
 
