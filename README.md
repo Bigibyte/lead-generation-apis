@@ -54,6 +54,17 @@ These **13,606 ready-to-use lead generation APIs** help you pull prospects into 
 
 Pick an API below, open it, try a small run, then export the results.
 
+<details>
+<summary><b>Who uses lead generation APIs? (click to open)</b></summary>
+
+- **Sales reps:** build a fresh list of businesses that fit your ideal customer.
+- **Agencies:** find local companies that need a website, ads or SEO.
+- **Startup founders:** get your first customers without paying for expensive lead tools.
+- **Recruiters:** source people and companies by role, location and industry.
+- **Marketers:** enrich your CRM with emails, phones and company details.
+
+</details>
+
 ---
 
 ## ⭐ Star This Repository
